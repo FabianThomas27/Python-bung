@@ -1,0 +1,5 @@
+import sys
+
+date = sys.argv[1]
+
+print(date)
